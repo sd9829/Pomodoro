@@ -1,4 +1,4 @@
-#Pomodoro Timer
+Pomodoro Timer
 Pomodoro Timer is a simple Python-based Pomodoro timer application with a graphical user interface (GUI). It helps you manage your work time efficiently using the Pomodoro Technique, a time management method that breaks work into intervals separated by short breaks.
 #Features
 
